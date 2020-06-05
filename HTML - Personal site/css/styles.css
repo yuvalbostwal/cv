@@ -1,0 +1,78 @@
+body{
+  background-color:aqua;
+  font-family: oswald;
+}
+
+img{
+  height: 359px;
+  width: auto;
+}
+
+h2{
+  font-size: 50px;
+
+}
+
+h1{
+  font-style: italic;
+
+}
+
+
+h6{
+  font-size: 30px;
+}
+
+h3{
+  font-size: 30px;
+  color:red;
+  background-color: white;
+
+
+}
+
+h4{
+font-size: 30px;
+}
+
+p{
+  font-size: 20px;
+}
+
+h5{
+  font-size: 75px;
+
+}
+
+#jio{
+  color: black;
+  background-color:gold;
+  font-size: 50px;
+}
+
+#ji{
+  color:lime;
+  background-color: black;
+}
+
+#name{
+  color:yellow;
+  background-color: orangered;
+}
+#bday{
+  color:yellow;
+  background-color: orangered;
+  font-size: 60px;
+}
+#fire{
+  height: 82px;
+  position: relative;
+  top: 213px;
+  left: 430px;
+
+
+}
+hr{
+  border-style: outset;
+  border-width:  10px;
+}
